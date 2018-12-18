@@ -1,0 +1,26 @@
+{
+  "name": "xcrow",
+  "version": "1.0.0",
+  "description": "Stablecoin escrow contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ethereum",
+    "solidity",
+    "stablecoin",
+    "dai",
+    "gusd",
+    "escrow"
+  ],
+  "author": "Chris Lumpkin",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/misterzero/xcrow.git"
+  },
+  "dependencies": {
+    "zos-lib": "^2.0.1"
+  }
+}
